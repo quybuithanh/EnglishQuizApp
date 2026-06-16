@@ -1,0 +1,30 @@
+*{
+    -fx-font-family: "Arial";   
+    -fx-font-size: 14;
+}
+
+.Container{
+    -fx-background-color: whi;
+    -fx-alignment: CENTER;
+    -fx-spacing: 10;
+}
+
+.Subject{
+    -fx-font-size: 90;
+    -fx-font-weight: bold;
+    -fx-fill: black;
+    -fx-stroke-width: 3;
+    -fx-stroke-color: gold;
+    -fx-stroke: yellow;
+}
+
+.Button {
+    -fx-font-weight: bold;
+    -fx-background-color: #E0E0E0;
+    -fx-text-fill: #000000;
+    -fx-pref-width: 250;
+    -fx-font-size: 20;  
+    -fx-border-style: solid;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}

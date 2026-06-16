@@ -1,0 +1,25 @@
+.Container{
+    -fx-background-color: lightblue;
+    -fx-alignment: CENTER;
+    -fx-spacing: 10;
+}
+
+.Subject{
+    -fx-font-size: 90;
+    -fx-font-weight: bold;
+    -fx-fill: red;
+    -fx-stroke-width: 3;
+    -fx-stroke-color: gold;
+    -fx-stroke: yellow;
+}
+
+.Button {
+    -fx-font-weight: bold;
+    -fx-background-color: darkblue;
+    -fx-text-fill: white;
+    -fx-pref-width: 250;
+    -fx-font-size: 20;  
+    -fx-border-style: solid;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}

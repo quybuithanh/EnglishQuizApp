@@ -1,0 +1,30 @@
+*{
+    -fx-font-family: "Verdana";
+    -fx-font-size: 14;
+}
+
+.Container{
+    -fx-background-color: #121212;
+    -fx-alignment: CENTER;
+    -fx-spacing: 10;
+}
+
+.Subject{
+    -fx-font-size: 90;
+    -fx-font-weight: bold;
+    -fx-fill: white;
+    -fx-stroke-width: 3;
+    -fx-stroke-color: gold;
+    -fx-stroke: yellow;
+}
+
+.Button {
+    -fx-font-weight: bold;
+    -fx-background-color: #333333;
+    -fx-text-fill: #FFFFFF;
+    -fx-pref-width: 250;
+    -fx-font-size: 20;  
+    -fx-border-style: solid;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
